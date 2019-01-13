@@ -1,6 +1,6 @@
 # Shopify Web Engineer Intern Challenge
 
-This repository serves as the codebase of my submission for Shopify Web Engineer Challenge. The submitted site is currently running at: https://vijayrt.github.io/torontowaste/
+This repository serves as the codebase of my submission for the Shopify Web Engineer Challenge. The submitted site is currently running at: https://vijayrt.github.io/torontowaste/
 
 ## Details:
 
